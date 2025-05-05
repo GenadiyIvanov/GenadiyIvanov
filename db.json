@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "6f49",
+      "email": "111",
+      "password": "111"
+    },
+    {
+      "id": "5420",
+      "email": "22",
+      "password": "22"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "author": "George Orwell"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee"
+    }
+  ]
+}
